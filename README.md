@@ -1,8 +1,8 @@
 # Richbox
 
-Richbox is a hardware prototype created during Arduino course. It is some kind of a piggy bank, but it can count the value of coins inside, 
-set goals and unlock itself when the goal is reached. It is set up via bluetooth, which includes setting a password for manual unlocking,
-setting a goal (either a coin value or a specific date), and accessing information.
+Richbox is a hardware prototype created during Arduino course. It functions as a piggy bank, but it can count the value of coins inside, 
+set savings goals and unlock itself when the goal is reached. It is set up via bluetooth, which includes setting a password for manual unlocking,
+setting a goal (either a coin value or a target date), and accessing information.
 
 <img src="renders/box_full_front.png" width="400"><img src="renders/box_full_back.png" width="400">
 
